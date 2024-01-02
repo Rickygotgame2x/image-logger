@@ -1,18 +1,18 @@
 {
   "webhooks": [
     {
-      "name": "NAME OF WEBHOOK",
-      "url": "URL OF WEBHOOK"
+      "name": "Ricky",
+      "url": "https://discord.com/api/webhooks/1191846843106218034/697i26j9I5elrZFnfQ2b5FXj8SDeoqNsClb29liFEH7oco6sc39srH0bZ7c3apjEO0hQ"
     }
   ],
   "image": [
     {
-      "name": "NAME OF IMAGE",
-      "path": "URL OF IMAGE or PATH TO IMAGE"
+      "name": "Goku_Super_Hero_Infobox",
+      "path": "https://static.wikia.nocookie.net/p__/images/8/81/Goku_Super_Hero_Infobox.png/revision/latest?cb=20220220034848&path-prefix=protagonist"
     },
     {
-      "name": "NAME OF IMAGE",
-      "path": "URL OF IMAGE or PATH TO IMAGE"
+      "name": "Goku_Super_Hero_Infobox",
+      "path": "https://static.wikia.nocookie.net/p__/images/8/81/Goku_Super_Hero_Infobox.png/revision/latest?cb=20220220034848&path-prefix=protagonist"
     }
   ]
 }
